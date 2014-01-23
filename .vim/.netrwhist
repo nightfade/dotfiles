@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/Users/Meng/git_workspace/demo/.git'
+let g:netrw_dirhist_2='/Users/Meng/learning'
+let g:netrw_dirhist_3='/Users/Meng/Codes/Lab/gilbundler/thirdparty/5point'
+let g:netrw_dirhist_4='/Users/Meng/Codes/Lab/gilbundler/src'
+let g:netrw_dirhist_5='/Users/Meng/MyBin'
+let g:netrw_dirhist_6='/Users/meng/Working/protobuf-RPC/interfaces/proto'
+let g:netrw_dirhist_7='/Users/meng/Working/jasmine-standalone-2.0.0/spec'
+let g:netrw_dirhist_8='/Volumes/Storage/Documents/硕士资料文档/Lab/GILSFM2013'
+let g:netrw_dirhist_9='/Volumes/Storage/Documents/硕士资料文档/Lab/GILSFM2013/libGILSFMExt/reconstruction'
